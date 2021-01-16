@@ -1,0 +1,130 @@
+{
+  "Admins" : {
+    "18001068" : {
+      "name" : "Admin",
+      "password" : "q",
+      "phone" : "18001068"
+    }
+  },
+  "Cart List" : {
+    "Admin View" : {
+      "0835366950" : {
+        "Products" : {
+          "Th11 19, 202020:09:33 PM" : {
+            "date" : "Nov 29, 2020",
+            "discount" : "",
+            "pid" : "Th11 19, 202020:09:33 PM",
+            "pname" : "Nike Air Force 1",
+            "price" : "99",
+            "quantity" : "3",
+            "time" : "01:54:44 AM"
+          }
+        }
+      },
+      "0961843700" : {
+        "Products" : {
+          "Th11 17, 202020:10:21 PM" : {
+            "date" : "Th11 28, 2020",
+            "discount" : "",
+            "pid" : "Th11 17, 202020:10:21 PM",
+            "pname" : "Iphone XS",
+            "price" : "600",
+            "quantity" : "1",
+            "time" : "11:05:03 AM"
+          }
+        }
+      }
+    },
+    "User View" : {
+      "0835366950" : {
+        "Products" : {
+          "Th11 19, 202020:09:33 PM" : {
+            "date" : "Nov 29, 2020",
+            "discount" : "",
+            "pid" : "Th11 19, 202020:09:33 PM",
+            "pname" : "Nike Air Force 1",
+            "price" : "99",
+            "quantity" : "3",
+            "time" : "01:54:44 AM"
+          }
+        }
+      },
+      "0961843700" : {
+        "Products" : {
+          "Th11 17, 202020:10:21 PM" : {
+            "date" : "Th11 28, 2020",
+            "discount" : "",
+            "pid" : "Th11 17, 202020:10:21 PM",
+            "pname" : "Iphone XS",
+            "price" : "600",
+            "quantity" : "1",
+            "time" : "11:05:03 AM"
+          }
+        }
+      }
+    }
+  },
+  "Orders" : {
+    "0961843700" : {
+      "address" : "Viet Nam",
+      "city" : "Ha Noi",
+      "date" : "Th11 28, 2020",
+      "name" : "Huu Quang",
+      "phone" : "0961843700",
+      "state" : "not shipped",
+      "time" : "10:40:28 AM",
+      "totalAmount" : "600"
+    }
+  },
+  "Products" : {
+    "Th11 17, 202020:10:21 PM" : {
+      "category" : "SmartPhones",
+      "date" : "Th11 17, 2020",
+      "description" : "Ram:4G",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/lazada-demo.appspot.com/o/Product%20Images%2Fimage%3A17582Th11%2017%2C%20202020%3A10%3A21%20PM.jpg?alt=media&token=7683e1d0-5ab6-45d4-872a-7f8f65930d5b",
+      "pid" : "Th11 17, 202020:10:21 PM",
+      "pname" : "Iphone XS",
+      "price" : "600",
+      "time" : "20:10:21 PM"
+    },
+    "Th11 19, 202020:09:33 PM" : {
+      "category" : "Shoes",
+      "date" : "Th11 19, 2020",
+      "description" : "Color: Blue ",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/lazada-demo.appspot.com/o/Product%20Images%2Fimage%3A17109Th11%2019%2C%20202020%3A09%3A33%20PM.jpg?alt=media&token=1692af36-0231-4c06-9cea-64299dfdd56b",
+      "pid" : "Th11 19, 202020:09:33 PM",
+      "pname" : "Nike Air Force 1",
+      "price" : "99",
+      "time" : "20:09:33 PM"
+    },
+    "Th11 20, 202009:46:19 AM" : {
+      "category" : "Meals",
+      "date" : "Th11 20, 2020",
+      "description" : "beautiful",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/lazada-demo.appspot.com/o/Product%20Images%2Fimage%3A17587Th11%2020%2C%20202009%3A46%3A19%20AM.jpg?alt=media&token=54c24a67-401b-424f-970e-42b656d7c328",
+      "pid" : "Th11 20, 202009:46:19 AM",
+      "pname" : "róse",
+      "price" : "9999999",
+      "time" : "09:46:19 AM"
+    }
+  },
+  "Users" : {
+    "0123456789" : {
+      "name" : "viet2",
+      "password" : "1",
+      "phone" : "0123456789"
+    },
+    "0835366950" : {
+      "name" : "viet",
+      "password" : "123456",
+      "phone" : "0835366950"
+    },
+    "0961843700" : {
+      "address" : "HN",
+      "name" : "Hữu Quang",
+      "password" : "vocam1200",
+      "phone" : "0961843700",
+      "phoneOrder" : "012345678"
+    }
+  }
+}
