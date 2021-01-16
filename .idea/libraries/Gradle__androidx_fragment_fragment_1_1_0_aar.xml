@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.fragment:fragment:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/1d3194c87a1a055c09f9f985f4a02882/fragment-1.1.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22f1da1b4432f0a0476e18a573714f55/fragment-1.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/2be71689744e80333d6a06eadf239a2e/fragment-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/1d3194c87a1a055c09f9f985f4a02882/fragment-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/1d3194c87a1a055c09f9f985f4a02882/fragment-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/1d3194c87a1a055c09f9f985f4a02882/fragment-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22f1da1b4432f0a0476e18a573714f55/fragment-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22f1da1b4432f0a0476e18a573714f55/fragment-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22f1da1b4432f0a0476e18a573714f55/fragment-1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/modules-2/files-2.1/androidx.fragment/fragment/1.1.0/b9ebb04df2cb0cad4419af3c658690bc82aa5706/fragment-1.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.1.0/b9ebb04df2cb0cad4419af3c658690bc82aa5706/fragment-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

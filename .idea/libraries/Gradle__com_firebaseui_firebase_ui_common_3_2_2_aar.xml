@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.firebaseui:firebase-ui-common:3.2.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/c6156f0bf872b18cf5cadecedc4c4e9e/firebase-ui-common-3.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/0837aadcfd524927f7a5e58cdcd15cb5/jetified-firebase-ui-common-3.2.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/0837aadcfd524927f7a5e58cdcd15cb5/jetified-firebase-ui-common-3.2.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/0837aadcfd524927f7a5e58cdcd15cb5/jetified-firebase-ui-common-3.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8730e59ef2480b77132bbd4097311c6/jetified-firebase-ui-common-3.2.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8730e59ef2480b77132bbd4097311c6/jetified-firebase-ui-common-3.2.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8730e59ef2480b77132bbd4097311c6/jetified-firebase-ui-common-3.2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/3.2.2/cbed0c76bc19875b948778f5660d462e46a43889/firebase-ui-common-3.2.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/3.2.2/cbed0c76bc19875b948778f5660d462e46a43889/firebase-ui-common-3.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/3.2.2/20bfc2fd42b36ca7c771b021bcb25b298a90d7fd/firebase-ui-common-3.2.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/3.2.2/20bfc2fd42b36ca7c771b021bcb25b298a90d7fd/firebase-ui-common-3.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

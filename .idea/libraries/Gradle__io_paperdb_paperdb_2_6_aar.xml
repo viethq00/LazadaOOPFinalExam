@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: io.paperdb:paperdb:2.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/34b0f4da8a2b2ff2d6b08931c953ed22/paperdb-2.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/34b0f4da8a2b2ff2d6b08931c953ed22/paperdb-2.6/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/transforms-2/files-2.1/34b0f4da8a2b2ff2d6b08931c953ed22/paperdb-2.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fa1692651f8889ceba3fdb137df216d/jetified-paperdb-2.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fa1692651f8889ceba3fdb137df216d/jetified-paperdb-2.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fa1692651f8889ceba3fdb137df216d/jetified-paperdb-2.6/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/modules-2/files-2.1/io.paperdb/paperdb/2.6/876432283b65fa8e6a0cfe66e9d6497726661c0c/paperdb-2.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.paperdb/paperdb/2.6/876432283b65fa8e6a0cfe66e9d6497726661c0c/paperdb-2.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.7-rc-4-bin/caches/modules-2/files-2.1/io.paperdb/paperdb/2.6/373484af192cf1fe6cf26af9ddc30bdf72a3d6d7/paperdb-2.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.paperdb/paperdb/2.6/373484af192cf1fe6cf26af9ddc30bdf72a3d6d7/paperdb-2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
